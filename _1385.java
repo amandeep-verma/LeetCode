@@ -124,7 +124,7 @@ public class _1385 {
 	        //         if(Math.abs(arr1[i]-arr2[j]) <= d)
 	        //         {
 	        //             cond = true;
-	        //                 break;
+	        //             break;
 	        //         }
 	        //     }
 	        //     if(!cond)
